@@ -1,0 +1,21 @@
+.container { 
+    padding: 2%;
+}
+
+#total-credits {
+    text-align: center;
+}
+#imagen {
+    padding: 15px;
+}
+.datos {
+    font-size: medium;
+}
+
+#cardDatosPersonales {
+    padding: 0px 18px;
+}
+
+#cardCursos {
+    padding: 15px;
+}
